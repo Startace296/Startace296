@@ -101,13 +101,20 @@ A full-stack employee management application built with TypeScript.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Startace296&show_icons=true&theme=tokyonight&hide_border=true" alt="Long's GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Startace296&layout=compact&theme=tokyonight&hide_border=true" alt="Long's most used languages" />
+  <img
+    height="165"
+    src="https://github-stats-extended.vercel.app/api?username=Startace296&show_icons=true&theme=tokyonight"
+    alt="GitHub Statistics"
+  />
+  <img
+    height="165"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Startace296&layout=compact&theme=tokyonight"
+    alt="Top Languages"
+  />
 </p>
-
 ---
 
 ## 📫 Connect With Me

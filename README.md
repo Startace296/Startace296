@@ -1,19 +1,21 @@
 <h1 align="center">Hi 👋, I'm Long</h1>
-<h3 align="center">Software Engineering Student | Backend & AI Application Developer</h3>
+
+<h3 align="center">
+  Software Engineering Student | Backend & AI Application Developer
+</h3>
 
 <p align="center">
-  I enjoy building practical web applications, backend systems, and AI-powered tools.<br/>
-  Currently exploring Retrieval-Augmented Generation (RAG), hybrid search, and scalable backend development.
+  I enjoy building practical web applications, backend systems, and AI-powered tools.
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 Software Engineering student at **Ho Chi Minh City University of Technology and Education (HCMUTE)**
-- 💻 Interested in **Backend Development, Full-stack Development, and AI applications**
-- 🧠 Currently building an **AI Study Assistant** with RAG and hybrid retrieval
-- 🚀 Enjoy turning ideas into working products with clean APIs, databases, and real-time features
+- 🎓 Software Engineering student at **HCMUTE**
+- 💻 Interested in **Backend, Full-stack, and AI Application Development**
+- 🧠 Currently developing an **AI Study Assistant using RAG**
+- 🌱 Learning more about **hybrid retrieval, vector databases, and backend architecture**
 
 ---
 
@@ -21,39 +23,43 @@
 
 ### Languages
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=ffffff)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### Frontend
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000000)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=ffffff)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=ffffff)
-![Zustand](https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=ffffff)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=white)
 
-### Backend & Databases
+### Backend
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=ffffff)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=ffffff)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=ffffff)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=ffffff)
-![TypeORM](https://img.shields.io/badge/TypeORM-FE0803?style=for-the-badge&logo=typeorm&logoColor=ffffff)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+
+### Databases
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![TypeORM](https://img.shields.io/badge/TypeORM-FE0803?style=for-the-badge&logo=typeorm&logoColor=white)
 
 ### AI & Retrieval
 
 ![RAG](https://img.shields.io/badge/RAG-4B5563?style=for-the-badge)
-![Sentence Transformers](https://img.shields.io/badge/Sentence_Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000000)
 ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge)
 ![BM25](https://img.shields.io/badge/BM25-16A34A?style=for-the-badge)
-![PyMuPDF](https://img.shields.io/badge/PyMuPDF-E84E31?style=for-the-badge&logo=adobeacrobatreader&logoColor=ffffff)
+![Sentence Transformers](https://img.shields.io/badge/Sentence_Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 
-### Tools & Platforms
+### Tools
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=ffffff)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=ffffff)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=ffffff)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ---
 
@@ -61,43 +67,54 @@
 
 ### 🤖 [AI Study Assistant](https://github.com/Startace296/Al-Study)
 
-A Retrieval-Augmented Generation project for retrieving information from PDF learning materials.
+A Retrieval-Augmented Generation application for retrieving information from PDF learning materials.
 
-- Extracts and preprocesses text from PDF documents
-- Splits documents into overlapping chunks with source metadata
-- Creates multilingual embeddings with Sentence Transformers
-- Combines dense FAISS search and BM25 keyword search
-- Uses Reciprocal Rank Fusion (RRF) for hybrid retrieval
+**Main features:**
 
-**Tech:** Python · Sentence Transformers · FAISS · BM25 · PyMuPDF · NumPy
+- Extract and preprocess text from PDF files
+- Divide documents into overlapping chunks
+- Generate multilingual text embeddings
+- Perform semantic search using FAISS
+- Combine FAISS and BM25 for hybrid retrieval
+- Apply Reciprocal Rank Fusion to rank results
+
+**Technologies:** Python, Sentence Transformers, FAISS, BM25, PyMuPDF and NumPy.
 
 ---
 
 ### 💬 [Mixi](https://github.com/Startace296/Mixi)
 
-A full-stack social networking and real-time communication platform.
+A full-stack social networking application with real-time communication features.
 
-- JWT authentication, Google OAuth, and email OTP verification
-- Friend requests, user profiles, direct chat, and group chat
-- Real-time messaging with Socket.IO
-- Voice and video calling
-- Social posts and AI-powered chat assistance
-- Docker-based deployment workflow with GitHub Actions
+**Main features:**
 
-**Tech:** React · Vite · Tailwind CSS · Zustand · Node.js · Express.js · MongoDB · Socket.IO · Gemini API · Docker
+- JWT authentication and Google OAuth
+- Email OTP verification
+- User profiles and friend management
+- Direct and group messaging
+- Real-time communication using Socket.IO
+- Voice and video calls
+- Social posts and comments
+- AI-powered chat support
+
+**Technologies:** React, Vite, Tailwind CSS, Zustand, Node.js, Express.js, MongoDB, Socket.IO, Gemini API and Docker.
 
 ---
 
 ### 👥 [Employee Management System](https://github.com/Startace296/managerment_sys)
 
-A full-stack employee management application built with TypeScript.
+A full-stack web application for managing employee information.
 
-- React-based management interface
-- REST API with authentication and input validation
-- Relational data persistence with MySQL and TypeORM
-- Animated user interface with Motion
+**Main features:**
 
-**Tech:** React · TypeScript · Node.js · Express.js · MySQL · TypeORM · JWT · Zod
+- Employee management interface
+- Authentication and authorization
+- RESTful API
+- Input validation
+- Relational database integration
+- Responsive and animated user interface
+
+**Technologies:** React, TypeScript, Node.js, Express.js, MySQL, TypeORM, JWT and Zod.
 
 ---
 
@@ -115,12 +132,17 @@ A full-stack employee management application built with TypeScript.
     alt="Top Languages"
   />
 </p>
----
 
-## 📫 Connect With Me
+## 📫 Contact Me
 
 <p>
+  <a href="mailto:Longka2k3@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Longka2k3%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="tel:+84328451348">
+    <img src="https://img.shields.io/badge/Phone-0328%20451%20348-25D366?style=for-the-badge&logo=phonepe&logoColor=white" alt="Phone" />
+  </a>
   <a href="https://github.com/Startace296">
-    <img src="https://img.shields.io/badge/GitHub-Startace296-181717?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub profile" />
+    <img src="https://img.shields.io/badge/GitHub-Startace296-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
   </a>
 </p>

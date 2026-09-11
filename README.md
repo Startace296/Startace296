@@ -119,13 +119,6 @@ A full-stack web application for managing employee information.
 ---
 
 ## 📊 GitHub Statistics
-
-<p align="center">
-  <img
-    height="165"
-    src="https://github-stats-extended.vercel.app/api?username=Startace296&show_icons=true&theme=tokyonight"
-    alt="GitHub Statistics"
-  />
   <img
     height="165"
     src="https://github-stats-extended.vercel.app/api/top-langs/?username=Startace296&layout=compact&theme=tokyonight"

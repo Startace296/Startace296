@@ -134,6 +134,15 @@ A full-stack web application for managing employee information.
 </p>
 
 ## 📫 Contact Me
-- Phone: 0328451348
-- Email: Longka2k3@gmail.com
-- GitHub: [Startace296](https://github.com/Startace296)
+
+<p>
+  <a href="mailto:Longka2k3@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Longka2k3%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="tel:+84328451348">
+    <img src="https://img.shields.io/badge/Phone-0328%20451%20348-25D366?style=for-the-badge&logo=phonepe&logoColor=white" alt="Phone" />
+  </a>
+  <a href="https://github.com/Startace296">
+    <img src="https://img.shields.io/badge/GitHub-Startace296-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
+  </a>
+</p>
